@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FXwtz0WvBPSq0ThLSQvahCEBbPQh1zrk/view?usp=sharing)
 
-- ⚡ Fun fact **I read manga/manhwa and worship football**
+- ⚡ Fun fact **I read manga/manhwa and worship football ⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
