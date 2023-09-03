@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN, OpenAI, and new react frameworks**
 
-- 📫 How to reach me **[Gmail](arunraghavssreeragam@gmail.com)**
+- 📫 How to reach me **[Gmail](mailto:arunraghavssreeragam@gmail.com)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FXwtz0WvBPSq0ThLSQvahCEBbPQh1zrk/view?usp=sharing)
 
