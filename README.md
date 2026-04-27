@@ -26,11 +26,12 @@ I build **LLM agents, multi-agent systems, and RAG pipelines** that ship to real
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Crayonz.ai](https://crayonz.ai/)** *(in production)* | AI-powered collegiate merch e-commerce + generative design studio. Instagram DM commerce agent with payment, cart, and POD fulfilment. | Next.js 15 · LangGraph · Gemini 2.5 · Supabase · Cloud Run |
-| **[Advanced RAG](https://github.com/Arun-Raghav-S/Advanced_RAG)** | End-to-end multi-modal RAG over PDFs — text, tables, and image summaries via a vision-language model + custom multi-vector retriever. | LangChain · LlamaIndex · VLM · unstructured.io |
-| **[CV Major Project](https://github.com/Arun-Raghav-S/CV-MajorProject)** | Face detection, recognition & clustering pipeline — **98.6%** detection / **95%** recognition accuracy. | OpenCV · PyTorch · YOLO · MTCNN · Faster R-CNN |
-| **[GenAI Werewolves](https://github.com/Arun-Raghav-S/GenAIGame)** | Among Us × Werewolf game with autonomous LLM agents that strategise, vote, and deceive. Built at Otsuka, Tokyo. | Phaser JS · LangChain · Python |
-| **[Token Tracker](https://token-tracker-silk.vercel.app)** | Live dashboard tracking LLM token usage across providers. | Python · Next.js · Vercel |
+| **[Crayonz.ai](https://crayonz.ai/)** *(in production)* | AI-powered collegiate-merch e-commerce + generative design studio. Instagram DM commerce agent on LangGraph with payment, cart, address collection, and POD fulfilment. | Next.js 15 · LangGraph · Gemini 2.5 · Supabase · Cloud Run |
+| **[Advanced RAG](https://github.com/Arun-Raghav-S/Advanced_RAG)** *(Otsuka, Tokyo)* | End-to-end multi-modal RAG over PDFs — text, tables, and image summaries via a vision-language model + custom multi-vector retriever. **+25% retrieval accuracy.** | LangChain · LlamaIndex · VLM · unstructured.io |
+| **[Face Detection & Clustering](https://github.com/Arun-Raghav-S/CV-MajorProject)** | Full CV pipeline benchmarking 6 detectors — **98.6%** detection / **95%** recognition accuracy with MTCNN + FaceNet. | OpenCV · PyTorch · YOLO · MTCNN · Faster R-CNN |
+| **[GenAI Werewolves](https://github.com/Arun-Raghav-S/GenAIGame)** *(Otsuka, Tokyo)* | Among Us × Werewolf with autonomous LLM agents that strategise, vote, and deceive. **−20%** tokens, **+30%** perf. | Phaser JS · LangChain · Python |
+| **SummAIze** — Gmail summary + smart-reply Chrome extension *([demo](https://drive.google.com/file/d/1bimmWO6EiWPs-CxD5UpiLjXxPxNu2LPx/view?usp=sharing))* | Summarises emails on hover and drafts optimal replies; **−40%** response time across **50+** users. | React · TypeScript · OpenAI · Gmail API |
+| **[COVID-19 Detection](https://github.com/Arun-Raghav-S/Covid-19-detection-ML)** | CNN classifier on lung X-rays with segmentation masks to focus on lung regions and cut false positives. | TensorFlow · OpenCV · CNN |
 
 ---
 
