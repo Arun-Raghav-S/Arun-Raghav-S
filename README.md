@@ -52,8 +52,8 @@ Data            PostgreSQL · Supabase · pgvector · Redis · MongoDB
 ### 📊 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Raghav-S&layout=compact&hide=html,css&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arun-Raghav-S&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Raghav-S&layout=compact&hide=jupyter%20notebook,html,css,scss&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arun-Raghav-S&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=stars,issues" />
 </p>
 
 ---
