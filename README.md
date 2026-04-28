@@ -10,7 +10,7 @@
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://github.com/Arun-Raghav-S">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Engineer+%E2%9A%A1+building+LLM+agents+in+production;Currently+%40+BNY+Mellon+%C2%B7+Pershing+AI+data+agents;Past+%40+Propzing+(prop8t.ai)+%C2%B7+Otsuka%2C+Tokyo;Co-founding+Crayonz.ai+%26+IItianVibes;LangGraph+%C2%B7+Gemini+%C2%B7+OpenAI+Realtime+%C2%B7+RAG+%C2%B7+pgvector" alt="typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Engineer+%E2%9A%A1+building+LLM+agents+in+production;Currently+%40+BNY+Mellon+%C2%B7+Markets%2C+Corporate+Treasury;Past+%40+Propzing+(prop8t.ai)+%C2%B7+Otsuka%2C+Tokyo;Co-founding+Crayonz.ai+%26+IItianVibes;LangGraph+%C2%B7+Gemini+%C2%B7+OpenAI+Realtime+%C2%B7+RAG+%C2%B7+pgvector" alt="typing animation"/>
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 I build **LLM agents, multi-agent systems, and RAG pipelines** that ship to real users.
 
-- 🏦 **Analyst @ Bank of New York Mellon (Pune)** — building AI data agents for the **Pershing** clearing & custody platform
+- 🏦 **Analyst @ Bank of New York Mellon — Markets, Corporate Treasury (Pune)** — building production AI data agents for financial analysis & data workflows
 - 🏠 Previously **AI Engineer @ Propzing ([prop8t.ai](https://prop8t.ai/), Dubai)** — shipped a real-time voice agent, WhatsApp Pub/Sub agent, and B2B FastAPI service over **1.6M+** DLD transaction records
 - 🎨 Co-founder of **[IItianVibes](https://iitianvibes.com/)** & building **[Crayonz.ai](https://crayonz.ai/)** — a generative AI design studio + collegiate-merch e-commerce, with an Instagram DM commerce agent on LangGraph + Cloud Run
 - 🎓 **B.Tech CS, IIT Jodhpur** (2025) · CGPA 8.02
