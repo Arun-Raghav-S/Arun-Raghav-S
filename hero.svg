@@ -55,7 +55,7 @@
     <text x="20" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">SYSTEMS ONLINE</text>
 
     <circle cx="200" cy="-3" r="4" fill="#00e5ff"/>
-    <text x="214" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">9 AGENTS DEPLOYED</text>
+    <text x="214" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">10 AGENTS DEPLOYED</text>
 
     <circle cx="430" cy="-3" r="4" fill="#ff2d95"/>
     <text x="444" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">2 PRODUCTS LIVE</text>

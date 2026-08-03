@@ -12,6 +12,8 @@ By day, **Analyst @ [BNY Mellon](https://bnymellon.com)** — Markets, Corporate
 
 Previously **AI Engineer @ [Propzing / prop8t.ai](https://prop8t.ai)** (Dubai real-estate AI — voice, WhatsApp, and multi-agent research) and **AI Engineer Intern @ [Otsuka Corporation](https://www.otsuka.co.jp/en/)** in Tokyo. **IIT Jodhpur** — B.Tech Computer Science, 2025.
 
+Also occasionally writing at **[iitianvibes.com/blog](https://iitianvibes.com/blog)** — the IIT-life journal (research, news, culture) that runs on an Astro static site + an automated content pipeline I built.
+
 <br/>
 
 ## `// AGENTS DEPLOYED`
@@ -27,6 +29,7 @@ Previously **AI Engineer @ [Propzing / prop8t.ai](https://prop8t.ai)** (Dubai re
 | **MemAgent** | LLM + imgflip pipeline | Brainstorm → refine → render → QA · template registry · caption optimizer | `📦 SHIPPED` |
 | **HyperFrames** | HTML → MP4 renderer | 7 runtime adapters (GSAP / Lottie / Three.js / Anime / CSS / WAAPI / TypeGPU) · beat-synced audio | `📦 SHIPPED` |
 | **Advanced RAG** | Multi-modal retrieval | Text + tables + VLM image summaries · custom multi-vector retriever · +25% accuracy | `📦 SHIPPED` |
+| **IItianVibes Journal** | Astro + n8n content pipeline | Multi-agent research → outline → generation → tone-enforcement · live at [iitianvibes.com/blog](https://iitianvibes.com/blog) | `🟢 LIVE` |
 
 <br/>
 
