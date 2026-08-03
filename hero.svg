@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Arun Raghav S — AI Engineer, shipping LLM agents in production">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="50%" stop-color="#0a0e1a"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#152238" stroke-width="0.5"/>
+    </pattern>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e6edf3"/>
+      <stop offset="70%" stop-color="#e6edf3"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <linearGradient id="divider" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2d95"/>
+      <stop offset="10%" stop-color="#ff2d95"/>
+      <stop offset="10%" stop-color="#1a2a44"/>
+      <stop offset="100%" stop-color="#1a2a44"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+
+  <!-- Faint horizon glow at top -->
+  <rect width="1280" height="180" fill="#00e5ff" opacity="0.02"/>
+
+  <!-- Top-left bracket + label -->
+  <path d="M 40 40 L 40 62 M 40 40 L 62 40" stroke="#00e5ff" stroke-width="2" fill="none"/>
+  <text x="76" y="53" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#00e5ff" opacity="0.85" letter-spacing="1">// SESSION_INIT</text>
+
+  <!-- Top-right bracket + status -->
+  <path d="M 1240 40 L 1240 62 M 1240 40 L 1218 40" stroke="#00e5ff" stroke-width="2" fill="none"/>
+  <text x="1210" y="53" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#00e5ff" opacity="0.85" letter-spacing="1" text-anchor="end">STATUS_[ONLINE]</text>
+
+  <!-- Small stat readout under top-right label -->
+  <text x="1210" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6b7688" letter-spacing="1" text-anchor="end">UPTIME 24Y · LOC IN/REMOTE · CH USD</text>
+
+  <!-- Main title -->
+  <text x="76" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="72" font-weight="700" fill="url(#titleGrad)" letter-spacing="-2">ARUN RAGHAV S</text>
+
+  <!-- Subtitle -->
+  <text x="80" y="215" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#00e5ff" letter-spacing="2">// AI ENGINEER · AGENTS · VOICE · MCP · GENERATIVE MEDIA</text>
+
+  <!-- Divider (magenta accent + gray fade) -->
+  <rect x="80" y="240" width="1120" height="2" fill="url(#divider)"/>
+
+  <!-- Status indicator row -->
+  <g transform="translate(80, 285)">
+    <circle cx="6" cy="-3" r="4" fill="#00ff88">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="20" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">SYSTEMS ONLINE</text>
+
+    <circle cx="200" cy="-3" r="4" fill="#00e5ff"/>
+    <text x="214" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">9 AGENTS DEPLOYED</text>
+
+    <circle cx="430" cy="-3" r="4" fill="#ff2d95"/>
+    <text x="444" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">2 PRODUCTS LIVE</text>
+
+    <circle cx="640" cy="-3" r="4" fill="#ffb400"/>
+    <text x="654" y="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3" letter-spacing="1">1.6M+ RECORDS INDEXED</text>
+  </g>
+
+  <!-- Bottom-right coordinates -->
+  <text x="1210" y="325" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6b7688" text-anchor="end" letter-spacing="1">SECTOR: IIT-J · PUNE · REMOTE</text>
+
+  <!-- Bottom-left bracket -->
+  <path d="M 40 320 L 40 298 M 40 320 L 62 320" stroke="#00e5ff" stroke-width="2" fill="none"/>
+  <!-- Bottom-right bracket -->
+  <path d="M 1240 320 L 1240 298 M 1240 320 L 1218 320" stroke="#00e5ff" stroke-width="2" fill="none"/>
+
+  <!-- Faint decorative HUD element right side -->
+  <g opacity="0.35" transform="translate(1100, 130)">
+    <circle cx="0" cy="0" r="60" stroke="#00e5ff" stroke-width="1" fill="none"/>
+    <circle cx="0" cy="0" r="45" stroke="#00e5ff" stroke-width="0.5" fill="none" stroke-dasharray="2 4"/>
+    <circle cx="0" cy="0" r="4" fill="#00e5ff"/>
+    <line x1="-70" y1="0" x2="-60" y2="0" stroke="#00e5ff" stroke-width="1"/>
+    <line x1="60" y1="0" x2="70" y2="0" stroke="#00e5ff" stroke-width="1"/>
+    <line x1="0" y1="-70" x2="0" y2="-60" stroke="#00e5ff" stroke-width="1"/>
+    <line x1="0" y1="60" x2="0" y2="70" stroke="#00e5ff" stroke-width="1"/>
+  </g>
+</svg>
